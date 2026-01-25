@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1769294642",
+      "datetime": "1769299365",
       "filename": "lineage-16.0-20260124-UNOFFICIAL-herolte.zip",
-      "id": "876e66b410f5b3f2c7261fa805d43ca74f285e588db9ab30472c97c7a85d358a",
+      "id": "d2f1ab385adfdbe6fd4c5302fbc8cb0e2381a0528d5c3794092392108fe3da5f",
       "romtype": "UNOFFICIAL",
-      "size": "714250213",
-      "url": "https://github.com/SealsPlayground/ota_provider/releases/download/herolte_lineage-16.0_1769294642/lineage-16.0-20260124-UNOFFICIAL-herolte.zip",
+      "size": "690971082",
+      "url": "https://github.com/SealsPlayground/ota_provider/releases/download/herolte_lineage-16.0_1769299365/lineage-16.0-20260124-UNOFFICIAL-herolte.zip",
       "version": "16.0"
     }
   ]
